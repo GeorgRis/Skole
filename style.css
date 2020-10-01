@@ -7,17 +7,17 @@
   display: inline-block;
 }
 .aktiv{
-	background-color: #17B890;
+	background-color: #5E807F;
 }
 .btnMæ:hover{
-	background-color: #5E807F;
+	background-color: #17B890;
 	color:white;
 }		
 .btnService:hover{
-	background-color: #5E807F;
+	background-color: #17B890;
 	color:white;
 }		
 .btnHovedside:hover{
-	background-color: #5E807F;
+	background-color: #17B890;
 	color:white;
 }		
