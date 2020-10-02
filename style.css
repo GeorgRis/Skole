@@ -5,6 +5,8 @@
   font-size: 16px;
   cursor: pointer;
   display: inline-block;
+  width: 140px;
+  height: 50px; 
 }
 .aktiv{
 	background-color: #5E807F;
@@ -23,9 +25,10 @@
 }		
 div.knapper{
     float: left;
-    height: 400px;
+    height: 150px;
     margin-right: 10px;
-    width: 200px;
+    width: 140px;
+	background-color: #DEE5E5;
 }
 div.hovedside{
     height: 425px;
