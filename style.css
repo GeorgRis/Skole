@@ -21,3 +21,17 @@
 	background-color: #17B890;
 	color:white;
 }		
+div.knapper{
+    float: left;
+    height: 400px;
+    margin-right: 10px;
+    width: 200px;
+}
+div.hovedside{
+    height: 425px;
+    overflow: hidden;
+}
+.servicedesk{
+    height: 3800px;
+    overflow: hidden;
+	
