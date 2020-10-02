@@ -22,18 +22,19 @@ div.hovedside{
 	padding-top: 25px;
 }
 .aktiv{
-	background-color: #5E807F;
+	background-color: #17B890;
+	
 }
 .btnMæ:hover{
-	background-color: #17B890;
+	background-color: #5E807F;
 	color:white;
 }		
 .btnService:hover{
-	background-color: #17B890;
+	background-color: #5E807F;
 	color:white;
 }		
 .btnHovedside:hover{
-	background-color: #17B890;
+	background-color: #5E807F;
 	color:white;
 }		
 div.knapper{
