@@ -13,6 +13,13 @@ div.hovedside{
 	margin: auto;
 	width: 50%;
 	padding: 10px;
+	height: auto;
+    overflow: hidden;
+}
+.h1-c{
+	margin: auto;
+	width: 50%;
+	padding-top: 30px;
 }
 .aktiv{
 	background-color: #5E807F;
@@ -36,11 +43,7 @@ div.knapper{
     width: 140px;
 	background-color: #DEE5E5;
 }
-div.hovedside{
-    height: auto;
-    overflow: hidden;
-}
 .servicedesk{
     height: auto;
     overflow: hidden;
-	
+}
