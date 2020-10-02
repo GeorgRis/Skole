@@ -31,16 +31,16 @@ div.hovedside{
 }		
 div.knapper{
     float: left;
-    height: 150px;
+    height: auto;
     margin-right: 10px;
     width: 140px;
 	background-color: #DEE5E5;
 }
 div.hovedside{
-    height: 550px;
+    height: auto;
     overflow: hidden;
 }
 .servicedesk{
-    height: 3800px;
+    height: auto;
     overflow: hidden;
 	
