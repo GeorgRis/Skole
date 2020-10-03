@@ -1,5 +1,5 @@
 
-.btn {
+.btn{
 	border: none;
 	background-color: inherit;
 	padding: 14px 28px;
@@ -8,7 +8,6 @@
 	display: inline-block;
 	width: 140px;
 	height: 50px; 
-	border-radius: 15px;
 	outline:none;
 }
 div.hovedside{
@@ -29,10 +28,18 @@ div.hovedside{
 .btnMæ:hover{
 	background-color: #5E807F;
 	color:white;
-}		
+}	
+.btnService{
+	border-bottom-left-radius: 15px;
+}
+	
 .btnService:hover{
 	background-color: #5E807F;
 	color:white;
+}
+.btnHovedside{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
 }		
 .btnHovedside:hover{
 	background-color: #5E807F;
@@ -43,7 +50,10 @@ div.knapper{
     height: auto;
     margin-right: 10px;
     width: 140px;
-
+	background-color: #DEE5E5;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
 }
 .servicedesk{
     height: auto;
