@@ -31,6 +31,7 @@ div.hovedside{
 }	
 .btnService{
 	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 	
 .btnService:hover{
@@ -52,6 +53,7 @@ div.knapper{
     width: 140px;
 	background-color: #DEE5E5;
 	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
 }
